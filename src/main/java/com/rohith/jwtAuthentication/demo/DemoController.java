@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.Optional;
 
-@CrossOrigin(origins = "*",allowedHeaders = "*")
+
 @RestController
 @RequestMapping("/api/v1/demo-controller")
 @RequiredArgsConstructor
