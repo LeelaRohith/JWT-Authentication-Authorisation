@@ -9,8 +9,8 @@ spring:
       ddl-auto: update
   mail:
     host: smtp.gmail.com
-    username: leelarohith10@gmail.com
-    password: jksneqomiayyvpyo
+    username: your email
+    password: your app password
     port: 587
     properties:
       mail:
